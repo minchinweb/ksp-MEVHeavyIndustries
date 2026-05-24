@@ -12,9 +12,7 @@
 * Released:
   * on: 02 Nov 2022
   * for: Kerbal Space Program 1.12.4
-  * by: zer0Kerbal
-
-### Adoption by zer0Kerbal
+  * by: zer0Kerbal and Lisias
 
 ### Summary 1.1.0.0
 

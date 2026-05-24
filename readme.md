@@ -15,7 +15,7 @@ Daedalus, Bussard and Epstein drives for Kerbal Space Program.
 
 Daedalus drive requires [KSP Interstellar Extended][kspie]
 
-## By [`zer0Kerbal`][zer0Kerbal] and ['Lisias'][lisias], originally by [`Cyne`][cyne]
+## By [`zer0Kerbal`][zer0Kerbal] and [`Lisias`][lisias], originally by [`Cyne`][cyne]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
@@ -86,7 +86,7 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] mod meta
 
 Distribution permitted ONLY throught CurseForge/Overwolf through specific licensing.
 
-#### Current (1) - [`zer0Kerbal`][zer0Kerbal] and ['Lisias'][lisias]
+#### Current (1) - [`zer0Kerbal`][zer0Kerbal] and [`Lisias`][lisias]
 
 > License:
   > Copyright © - All Rights Reserved.

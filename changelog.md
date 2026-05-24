@@ -1,14 +1,28 @@
 # Changelog  
   
-| modName    | MEV Heavy Industries (MEV)                                          |
+| modName    | MEV Heavy Industries (MEV)                                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-NC-SA-4.0                                                   |
-| author     | Cyan and zer0Kerbal                                               |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/209730-*/) |
+| license    | All Rights Reserved. Distribution limited to Curseforge           |
+| author     | Cyan, zer0Kerbal and Lisias                                       |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/MEVHeavyIndustries)     |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/MEVHeavyIndustries)   |
-| spacedock  | (https://spacedock.info/mod/2621)                                 |
-| ckan       | MEVHeavyIndustries                                                |
+
+## Version 1.1.0.0-release `<Thank you minchinweb>`
+
+* Released:
+  * on: 02 Nov 2022
+  * for: Kerbal Space Program 1.12.4
+  * by: zer0Kerbal
+
+### Adoption by zer0Kerbal
+
+### Summary 1.1.0.0
+
+* thank you @minchinweb
+  * Add CommunityTechTree support
+  * Add plume to small Epstien Drive
+
+---
 
 ## Version 1.0.99.0-adoption `<Thank you Cyne>`
 

@@ -18,7 +18,7 @@
 
 * thank you @minchinweb
   * Add CommunityTechTree support
-  * Add plume to small Epstien Drive
+  * Add plume to small Epstein Drive
 
 ---
 

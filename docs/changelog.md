@@ -9,7 +9,7 @@ MEV Heavy Industries
 created: 13 May 2022
 updated:
 CC BY-ND 4.0 by zer0Kerbal --># Changelog  
-  
+
 | modName    | MEV Heavy Industries (MEV)                                        |
 | ---------- | ----------------------------------------------------------------- |
 | license    | All Rights Reserved. Distribution limited to Curseforge           |
@@ -20,8 +20,8 @@ CC BY-ND 4.0 by zer0Kerbal --># Changelog
 ## Version 1.1.0.0-release `<Thank you minchinweb>`
 
 * Released:
-  * on: 02 Nov 2022
-  * for: Kerbal Space Program 1.12.4
+  * on: 24 May 2026
+  * for: Kerbal Space Program 1.12.5
   * by: zer0Kerbal and Lisias
 
 ### Summary 1.1.0.0
